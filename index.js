@@ -1,5 +1,7 @@
 debugger
 
+console.log("commit from github editor")
+
 function hello(){
     var a =7
     function hi(){
