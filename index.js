@@ -1,7 +1,5 @@
 debugger
 
-
-
 function hello(){
     var a =7
     function hi(){
