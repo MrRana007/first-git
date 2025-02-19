@@ -1,6 +1,7 @@
 debugger
 
 console.log("commit from github editor")
+console.log("commint again for practice")
 
 function hello(){
     var a =7
